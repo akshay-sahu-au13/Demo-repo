@@ -36,6 +36,7 @@ This project contains basic implementation of Parking lot system using Python. I
 
 ## Setup:  
 Follow the below steps to execute or run this project in your system:
+
 		1.	Clone the repository (https://github.com/attainu/project-akshay-sahu-au13.git)
 
 		2.	Install Python in your computer
