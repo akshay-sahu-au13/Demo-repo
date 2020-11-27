@@ -37,12 +37,15 @@ This project contains basic implementation of Parking lot system using Python. I
 ## Setup:  
 Follow the below steps to execute or run this project in your system:
 		1.	Clone the repository (https://github.com/attainu/project-akshay-sahu-au13.git)
+
 		2.	Install Python in your computer
+
 		3.	Open the folder using shell or VS code/IDE and type: *python main.py* to run it as a user interactive program
 			o	Press 1 for menu based interactive interface 
 			o	Press 2 or any other key to type the commands manually
+
 		4.	To give inputs from a file, type following command in shell:
-		*python main.py –run input_file1.txt*
+			*python main.py –run input_file1.txt*
 
 ## Instructions on how to run the program:
 
